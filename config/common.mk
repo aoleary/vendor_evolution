@@ -152,9 +152,6 @@ include vendor/evolution/config/art.mk
 # Branding
 include vendor/evolution/config/branding.mk
 
-# OTA
-include vendor/evolution/config/ota.mk
-
 # Pixel Style
 include vendor/pixelstyle/config.mk
 
